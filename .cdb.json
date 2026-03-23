@@ -1,0 +1,11 @@
+{
+   "title" : "register_timer",
+   "short_description": "Persistent timers for Luanti mods.",
+   "dev_state": "ACTIVELY_DEVELOPED",
+   "$author" : "bas080",
+   "$version" : "0.0.0",
+   "license" : "LGPL-2.1-only",
+   "media_license" : "LGPL-2.1-only",
+   "name" : "register_timer",
+   "type": "MOD"
+}
