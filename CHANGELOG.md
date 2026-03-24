@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.1
+
+- Fix runtime errors.
+
 ## 0.0.0
 
 - A fully capable persistent timer utility.
