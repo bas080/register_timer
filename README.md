@@ -1,6 +1,6 @@
 # register_timer
 
-Persistent timers for Luanti mods.
+**PERSISTENT** timers for Luanti mods.
 
 ```lua
 local register_timer, get_timer = dofile(core.get_modpath('register_timer')..'/init.lua')
